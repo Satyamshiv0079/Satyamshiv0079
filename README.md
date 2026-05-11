@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Love To code ❤️
 
 <!---
