@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:Satyam.shiv0079@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-1b4332?style=for-the-badge&logo=gmail&logoColor=52b788" alt="Gmail" />
   </a>
   <a href="https://linkedin.com/in/your-profile">
