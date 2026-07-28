@@ -202,8 +202,8 @@ const satyam = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Satyamshiv0079&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=52b788&text_color=b7e4c7&icon_color=95d5b2&ring_color=52b788" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Satyamshiv0079&theme=vue-dark&hide_border=true&background=0d1117&ring=52b788&fire=95d5b2&currStreakLabel=b7e4c7&sideLabels=b7e4c7&currStreakNum=d8f3dc&sideNums=d8f3dc&dates=74c69d" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Satyamshiv0079&show_icons=true&hide_border=true&bg_color=0d1117&title_color=52b788&text_color=b7e4c7&icon_color=95d5b2&ring_color=52b788&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Satyamshiv0079&hide_border=true&background=0d1117&ring=52b788&fire=95d5b2&currStreakLabel=b7e4c7&sideLabels=b7e4c7&currStreakNum=d8f3dc&sideNums=d8f3dc&dates=74c69d" alt="GitHub Streak" />
 </div>
 
 <br/>
