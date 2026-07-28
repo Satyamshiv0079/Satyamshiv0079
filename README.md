@@ -202,14 +202,15 @@ const satyam = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Satyamshiv0079&show_icons=true&hide_border=true&bg_color=0d1117&title_color=52b788&text_color=b7e4c7&icon_color=95d5b2&ring_color=52b788&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Satyamshiv0079&theme=github_dark" alt="GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=Satyamshiv0079&hide_border=true&background=0d1117&ring=52b788&fire=95d5b2&currStreakLabel=b7e4c7&sideLabels=b7e4c7&currStreakNum=d8f3dc&sideNums=d8f3dc&dates=74c69d" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamshiv0079&layout=compact&hide_border=true&bg_color=0d1117&title_color=52b788&text_color=b7e4c7" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Satyamshiv0079&theme=github_dark" alt="Top Languages by Repo" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Satyamshiv0079&theme=github_dark" alt="Top Languages by Commit" />
 </div>
 
 <br/>
