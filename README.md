@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=800&color=52B788&center=true&vCenter=true&width=700&height=70&lines=🧠+Building+AI+that+understands+humans;🛒+Crafting+immersive+digital+experiences;🌿+Turning+ideas+into+intelligent+systems;💻+Writing+clean+code+%26+solving+hard+problems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=800&color=52B788&center=true&vCenter=true&width=700&height=70&lines=Building+AI+that+understands+humans;Crafting+immersive+digital+experiences;Turning+ideas+into+intelligent+systems;Writing+clean+code+%26+solving+hard+problems" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,7 +12,7 @@
   <a href="mailto:Satyam.shiv0079@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-1b4332?style=for-the-badge&logo=gmail&logoColor=52b788" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/satyamshiv0079/">
     <img src="https://img.shields.io/badge/LinkedIn-1b4332?style=for-the-badge&logo=linkedin&logoColor=52b788" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Satyamshiv0079">
