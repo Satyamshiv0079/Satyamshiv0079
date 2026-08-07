@@ -1,12 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1b4332,30:2d6a4f,60:40916c,100:52b788&height=300&section=header&text=SATYAM%20SHIV&fontSize=80&fontColor=d8f3dc&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descSize=18&descColor=b7e4c7" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1b4332,30:2d6a4f,60:40916c,100:52b788&height=280&section=header&text=SATYAM%20SHIV&fontSize=70&fontColor=d8f3dc&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descSize=18&descColor=b7e4c7" />
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=800&color=52B788&center=true&vCenter=true&width=700&height=70&lines=Building+AI+that+understands+humans;Crafting+immersive+digital+experiences;Turning+ideas+into+intelligent+systems;Writing+clean+code+%26+solving+hard+problems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=52B788&center=true&vCenter=true&width=700&height=70&lines=Building+AI+that+understands+humans;Crafting+immersive+digital+experiences;Turning+ideas+into+intelligent+systems;Writing+clean+code+%26+solving+hard+problems" alt="Typing SVG" />
   </a>
 </div>
-
-<br/>
 
 <div align="center">
   <a href="mailto:Satyam.shiv0079@gmail.com">
@@ -23,13 +21,11 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-<br/>
+## 🙋‍♂️ About Me
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp;About Me
-
-<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF" />
 
 ```js
 const satyam = {
@@ -42,193 +38,56 @@ const satyam = {
 };
 ```
 
-<br/>
-
-> *"Any sufficiently advanced technology is indistinguishable from magic."*
-> — Arthur C. Clarke
+> *"Any sufficiently advanced technology is indistinguishable from magic."*  
+> — **Arthur C. Clarke**
 
 <br clear="both"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Satyamshiv0079&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## ⚡ Tech Arsenal
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,html,css&theme=dark" alt="Languages" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,react,nextjs,flask,prisma,mysql&theme=dark" alt="Frameworks" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,sqlite,vscode,github&theme=dark" alt="Tools" />
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
+---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+Here are some of the key projects I have built, showcasing full-stack capabilities, AI integrations, and responsive UI design:
 
 <table>
-<tr>
-<td width="50%">
-
-<h3 align="center">🤖 AI Customer Support Chatbot</h3>
-<p align="center">
-  <a href="https://github.com/Satyamshiv0079/ai-chatbot">
-    <img src="https://img.shields.io/badge/EXPLORE_→-52b788?style=for-the-badge&logoColor=white" />
-  </a>
-</p>
-<p align="center">BERT-powered chatbot with microservices architecture. Intent classification with <strong>>94% accuracy</strong> and <strong><2s latency</strong>. Context-aware dialog engine with React UI.</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-1b4332?style=for-the-badge&logo=python&logoColor=52b788" height="25" />
-  <img src="https://img.shields.io/badge/PyTorch-1b4332?style=for-the-badge&logo=pytorch&logoColor=52b788" height="25" />
-  <img src="https://img.shields.io/badge/React-1b4332?style=for-the-badge&logo=react&logoColor=52b788" height="25" />
-</p>
-
-</td>
-<td width="50%">
-
-<h3 align="center">🛍️ LUXE Store</h3>
-<p align="center">
-  <a href="https://github.com/Satyamshiv0079/LUXE-Store">
-    <img src="https://img.shields.io/badge/EXPLORE_→-52b788?style=for-the-badge&logoColor=white" />
-  </a>
-</p>
-<p align="center">Immersive dark-luxury e-commerce storefront with modular architecture and dual-engine AI support. Designed for a premium, high-end shopping experience.</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-1b4332?style=for-the-badge&logo=javascript&logoColor=52b788" height="25" />
-  <img src="https://img.shields.io/badge/HTML5-1b4332?style=for-the-badge&logo=html5&logoColor=52b788" height="25" />
-  <img src="https://img.shields.io/badge/CSS3-1b4332?style=for-the-badge&logo=css3&logoColor=52b788" height="25" />
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<h3 align="center">🛒 AI E-Commerce Platform</h3>
-<p align="center">
-  <a href="https://github.com/Satyamshiv0079/ecommerce-ai-platform">
-    <img src="https://img.shields.io/badge/EXPLORE_→-52b788?style=for-the-badge&logoColor=white" />
-  </a>
-</p>
-<p align="center">Full-stack AI-powered e-commerce with Next.js, Prisma ORM, and Groq AI. Smart product recommendations and a blazing-fast modern storefront.</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-1b4332?style=for-the-badge&logo=typescript&logoColor=52b788" height="25" />
-  <img src="https://img.shields.io/badge/Next.js-1b4332?style=for-the-badge&logo=nextdotjs&logoColor=52b788" height="25" />
-  <img src="https://img.shields.io/badge/Prisma-1b4332?style=for-the-badge&logo=prisma&logoColor=52b788" height="25" />
-</p>
-
-</td>
-<td width="50%">
-
-<h3 align="center">🧘 Serentias AI</h3>
-<p align="center">
-  <a href="https://github.com/Satyamshiv0079/Serentias-ai">
-    <img src="https://img.shields.io/badge/EXPLORE_→-52b788?style=for-the-badge&logoColor=white" />
-  </a>
-</p>
-<p align="center">A quiet place where you are always heard — without judgement, just gentle presence. An AI-powered safe space for mental wellness & self-reflection.</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-1b4332?style=for-the-badge&logo=javascript&logoColor=52b788" height="25" />
-  <img src="https://img.shields.io/badge/AI-1b4332?style=for-the-badge&logoColor=52b788" height="25" />
-  <img src="https://img.shields.io/badge/MIT-1b4332?style=for-the-badge&logoColor=52b788" height="25" />
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<h3 align="center">🎓 Student Management System</h3>
-<p align="center">
-  <a href="https://github.com/Satyamshiv0079/StudentManagementSystem">
-    <img src="https://img.shields.io/badge/EXPLORE_→-52b788?style=for-the-badge&logoColor=white" />
-  </a>
-</p>
-<p align="center">Desktop CRUD application for managing student records. Full create, read, update, delete operations with a clean Java interface backed by MySQL.</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-1b4332?style=for-the-badge&logo=openjdk&logoColor=52b788" height="25" />
-  <img src="https://img.shields.io/badge/MySQL-1b4332?style=for-the-badge&logo=mysql&logoColor=52b788" height="25" />
-</p>
-
-</td>
-<td width="50%">
-
-<h3 align="center">💪 75 Days LeetCode Challenge</h3>
-<p align="center">
-  <a href="https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge">
-    <img src="https://img.shields.io/badge/EXPLORE_→-52b788?style=for-the-badge&logoColor=white" />
-  </a>
-</p>
-<p align="center">75-day grind through LeetCode problems. Mastering arrays, trees, graphs, dynamic programming, and algorithmic thinking — one problem at a time.</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-1b4332?style=for-the-badge&logo=openjdk&logoColor=52b788" height="25" />
-  <img src="https://img.shields.io/badge/DSA-1b4332?style=for-the-badge&logoColor=52b788" height="25" />
-  <img src="https://img.shields.io/badge/LeetCode-1b4332?style=for-the-badge&logo=leetcode&logoColor=52b788" height="25" />
-</p>
-
-</td>
-</tr>
+  <tr>
+    <td>
+      <h3>🛍️ <a href="https://github.com/Satyamshiv0079/LUXE-Store">LUXE Store</a></h3>
+      <p>An immersive, dark-luxury storefront with dynamic scrolling physics, multicurrency systems, and a dual-engine AI Concierge panel.</p>
+      <b>Tech Stack:</b> JavaScript, HTML5, CSS3 (GSAP, Lenis), Gemini API / NovaMind
+    </td>
+    <td>
+      <h3>⚡ <a href="https://github.com/Satyamshiv0079/ecommerce-ai-platform">Ecommerce AI Platform</a></h3>
+      <p>A full-stack premium e-commerce platform incorporating modern web architecture, robust database models, and LLM-powered commerce logic.</p>
+      <b>Tech Stack:</b> Next.js, TypeScript, TailwindCSS, Prisma, PostgreSQL, Groq AI
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🛡️ <a href="https://github.com/Satyamshiv0079/Serentias-ai">Serentias AI</a></h3>
+      <p>A serene, conversational mental-wellness companion AI designed to provide a gentle and non-judgmental presence.</p>
+      <b>Tech Stack:</b> React, Node.js, Express, TailwindCSS, Vercel
+    </td>
+    <td>
+      <h3>💬 <a href="https://github.com/Satyamshiv0079/ai-chatbot">AI Customer Chatbot</a></h3>
+      <p>An intelligent customer service agent chatbot leveraging LLM orchestration to answer user queries with contextual memory.</p>
+      <b>Tech Stack:</b> Python, Flask, OpenAI API, React, CSS3
+    </td>
+  </tr>
 </table>
 
-</div>
+---
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 📊 GitHub Analytics
+## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Satyamshiv0079&theme=github_dark" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Satyamshiv0079&hide_border=true&background=0d1117&ring=52b788&fire=95d5b2&currStreakLabel=b7e4c7&sideLabels=b7e4c7&currStreakNum=d8f3dc&sideNums=d8f3dc&dates=74c69d" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,express,html,css,tailwind,postgres,mysql,prisma,git,github,vscode,vercel" alt="Skills Icon Grid" />
 </div>
 
-<br/>
+---
 
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Satyamshiv0079&theme=github_dark" alt="Top Languages by Repo" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Satyamshiv0079&theme=github_dark" alt="Top Languages by Commit" />
-</div>
+## 📊 GitHub Activity & Milestones
 
-<br/>
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Satyamshiv0079&bg_color=0d1117&color=b7e4c7&line=52b788&point=95d5b2&area=true&area_color=1b4332&hide_border=true&custom_title=📈%20Contribution%20Activity" alt="Activity Graph" />
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House" alt="Quote" />
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4332,30:2d6a4f,60:40916c,100:52b788&height=150&section=footer" />
+*   🏆 **LeetCode Challenge:** Active Participant in the [75 Days LeetCode Challenge](https://github.com/Satyamshiv0079/75DaysLeetCodeChallenge) (Java)
+*   🛠️ **Current Projects:** Active developer on **[LUXE Store](https://github.com/Satyamshiv0079/LUXE-Store)** & **[ecommerce-ai-platform](https://github.com/Satyamshiv0079/ecommerce-ai-platform)**
+*   📈 **Tech Profile:** Full-Stack AI developer with 8 public repositories
