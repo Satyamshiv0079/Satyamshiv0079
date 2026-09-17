@@ -69,7 +69,7 @@ Here are some of the key projects I have built, showcasing full-stack capabiliti
       <b>Tech Stack:</b> React, Node.js, Express, TailwindCSS, Vercel
     </td>
     <td>
-      <h3>💬 <a href="https://github.com/Satyamshiv0079/ai-chatbot">AI Customer Chatbot</a></h3>
+      <h3>💬 <a href="https://github.com/Satyamshiv0079/ai-chatbot">AI Chatbot</a></h3>
       <p>An intelligent customer service agent chatbot leveraging LLM orchestration to answer user queries with contextual memory.</p>
       <b>Tech Stack:</b> Python, Flask, OpenAI API, React, CSS3
     </td>
