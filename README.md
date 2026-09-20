@@ -133,17 +133,22 @@ A cinematic dark-luxury e-commerce storefront.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Satyamshiv0079&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamshiv0079&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Satyamshiv0079&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&rank_icon=github" />
+  &nbsp;
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamshiv0079&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
 </div>
 
 <div align="center">
-  <img width="68%" src="https://github-readme-streak-stats.herokuapp.com?user=Satyamshiv0079&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=FF6B6B&currStreakLabel=58a6ff&sideNums=c9d1d9&dates=a8b2c1" />
+  <img width="65%" src="https://streak-stats.demolab.com?user=Satyamshiv0079&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=FF6B6B&currStreakLabel=58a6ff&sideNums=c9d1d9&dates=a8b2c1" />
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Activity
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Satyamshiv0079&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f3a5f&hide_border=true" />
+</div>
 
 <div align="center">
   <picture>
