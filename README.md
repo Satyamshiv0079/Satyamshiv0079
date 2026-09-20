@@ -60,20 +60,15 @@ const satyam: Developer = {
 
 <div align="center">
 
-| 🛍️ [**LUXE Store**](https://github.com/Satyamshiv0079/LUXE-Store) | ⚡ [**Ecommerce AI Platform**](https://github.com/Satyamshiv0079/ecommerce-ai-platform) |
+| 🔮 [**NovaMind AI**](https://github.com/Satyamshiv0079/ai-chatbot) | ☕ [**Java Study Tracker**](https://github.com/Satyamshiv0079/java-study-tracker) |
 |---|---|
-| Cinematic luxury storefront with GSAP smooth-scroll physics, global multicurrency, Stripe Sandbox simulation, and a dual-engine Gemini AI Concierge. | Full-stack AI commerce platform with Next.js App Router, Prisma ORM, PostgreSQL schemas, and Groq LLM-powered product recommendations. |
-| `JavaScript` `GSAP` `Lenis` `Gemini API` | `Next.js` `TypeScript` `Prisma` `Groq AI` |
+| Next-gen spatial AI platform with a 3D glassmorphic UI, 4 switchable LLM models (Llama 3.3 70B, Mixtral, Gemma 2), RAG document analysis, voice mode (STT+TTS), JWT auth, persistent Supabase chat history, and full PWA support. | 45-day full-stack Java roadmap tracker with Spring Boot REST API, React dashboard, AI Mentor (Gemini), DSA LeetCode sandbox, embedded YouTube lessons, Pomodoro timer, and real-time analytics charts. |
+| `React` `Flask` `Python` `Groq API` `Supabase` `PostgreSQL` `PWA` | `React 18` `Vite` `Java 17` `Spring Boot 3.4` `JPA/Hibernate` `Render` `Vercel` |
 
-| 🛡️ [**Serentias AI**](https://github.com/Satyamshiv0079/Serentias-ai) | 💬 [**AI Support Chatbot**](https://github.com/Satyamshiv0079/ai-chatbot) |
+| 🎓 [**Student Management System**](https://github.com/Satyamshiv0079/StudentManagementSystem) | 🛍️ [**LUXE Store**](https://github.com/Satyamshiv0079/LUXE-Store) |
 |---|---|
-| Emotional wellness AI companion providing a serene, non-judgmental conversational space with ambient UI and contextual memory. | Full-stack customer support chatbot leveraging LLM orchestration with structured contextual recall and a custom React chat interface. |
-| `React` `Node.js` `Express` `TailwindCSS` | `Python` `Flask` `Groq API` `React` |
-
-| 🏋️ [**Java Study Tracker**](https://github.com/Satyamshiv0079/java-study-tracker) | 🔐 [**VAPT Internship**](https://github.com/Satyamshiv0079/VAPT-internship) |
-|---|---|
-| Structured Java learning tracker with topic progression dashboards, session logging, and visual milestone tracking. | Applied vulnerability research repository documenting OWASP Top 10 exercises, SQL injection labs, and Burp Suite workflows. |
-| `JavaScript` `React` `CSS3` | `Burp Suite` `Nmap` `OWASP` `Git` |
+| Desktop CRUD application to manage student records with a dark-themed Java Swing GUI, MySQL persistence, instant search by name/roll number, and parameterized queries to prevent SQL injection. | Cinematic dark-luxury storefront with GSAP smooth-scroll physics, global multicurrency switching, Stripe Sandbox 3D Secure simulation, and a dual-engine Gemini + NovaMind AI Concierge panel. |
+| `Java 17` `Swing` `MySQL 8.0` `JDBC` `OOP` | `JavaScript` `GSAP` `Lenis` `Gemini API` `CSS3` |
 
 </div>
 
