@@ -185,15 +185,9 @@ const satyam = {
   <img width="65%" src="https://streak-stats.demolab.com?user=Satyamshiv0079&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=FF6B6B&currStreakLabel=58a6ff&sideNums=c9d1d9&dates=a8b2c1" />
 </div>
 
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Satyamshiv0079&theme=algolia&no-frame=true&no-bg=true&column=7" />
-</div>
 
 ---
+
 
 ## 📈 Contribution Activity
 
