@@ -59,17 +59,91 @@ const satyam: Developer = {
 ### 🚀 Featured Projects
 
 <div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| 🔮 [**NovaMind AI**](https://github.com/Satyamshiv0079/ai-chatbot) | ☕ [**Java Study Tracker**](https://github.com/Satyamshiv0079/java-study-tracker) |
-|---|---|
-| Next-gen spatial AI platform with a 3D glassmorphic UI, 4 switchable LLM models (Llama 3.3 70B, Mixtral, Gemma 2), RAG document analysis, voice mode (STT+TTS), JWT auth, persistent Supabase chat history, and full PWA support. | 45-day full-stack Java roadmap tracker with Spring Boot REST API, React dashboard, AI Mentor (Gemini), DSA LeetCode sandbox, embedded YouTube lessons, Pomodoro timer, and real-time analytics charts. |
-| `React` `Flask` `Python` `Groq API` `Supabase` `PostgreSQL` `PWA` | `React 18` `Vite` `Java 17` `Spring Boot 3.4` `JPA/Hibernate` `Render` `Vercel` |
+### 🔮 NovaMind AI — Spatial AI Platform
+> Next-gen AI assistant with a stunning 3D glassmorphic UI
 
-| 🎓 [**Student Management System**](https://github.com/Satyamshiv0079/StudentManagementSystem) | 🛍️ [**LUXE Store**](https://github.com/Satyamshiv0079/LUXE-Store) |
-|---|---|
-| Desktop CRUD application to manage student records with a dark-themed Java Swing GUI, MySQL persistence, instant search by name/roll number, and parameterized queries to prevent SQL injection. | Cinematic dark-luxury storefront with GSAP smooth-scroll physics, global multicurrency switching, Stripe Sandbox 3D Secure simulation, and a dual-engine Gemini + NovaMind AI Concierge panel. |
-| `Java 17` `Swing` `MySQL 8.0` `JDBC` `OOP` | `JavaScript` `GSAP` `Lenis` `Gemini API` `CSS3` |
+**🌐 [Live Demo](https://ai-chatbot-6njs1ys87-satyamshiv0079s-projects.vercel.app)** &nbsp;|&nbsp; **📁 [Source Code](https://github.com/Satyamshiv0079/ai-chatbot)**
 
+- 🧠 4 switchable LLMs — Llama 3.3 70B, Mixtral, Gemma 2
+- 📄 RAG document analysis (PDF, CSV, JSON, code files)
+- 🎙️ Full voice mode — Speech-to-Text + Text-to-Speech
+- 🔐 JWT auth + Supabase persistent chat history
+- 📱 PWA — installable on Android, iOS & Windows
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Groq](https://img.shields.io/badge/Groq_API-F55036?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### ☕ Java Study Tracker — 45-Day Roadmap
+> Full-stack platform to go from Java zero to backend placement
+
+**🌐 [Live Demo](https://java-study-tracker-omega.vercel.app)** &nbsp;|&nbsp; **📁 [Source Code](https://github.com/Satyamshiv0079/java-study-tracker)**
+
+- 📚 45-day curated syllabus: Core Java → Spring Boot → CI/CD
+- 🌐 Spring Boot 3.4 REST API (Controller → Service → Repository)
+- 🤖 AI Mentor powered by Google Gemini
+- 💻 DSA sandbox with 45 LeetCode problems in Java
+- 📊 Visual analytics — study hours, placement readiness score
+
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Student Management System
+> Desktop CRUD app with dark Swing UI and MySQL backend
+
+**📁 [Source Code](https://github.com/Satyamshiv0079/StudentManagementSystem)**
+
+- 🖥️ Java Swing GUI with polished dark theme + alternating rows
+- 🗄️ MySQL persistence with normalized schema design
+- 🔍 Instant search by student name or roll number
+- 🛡️ Parameterized queries — SQL injection safe
+- ⚡ Full CRUD — Create, Read, Update, Delete records
+
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Swing](https://img.shields.io/badge/Java_Swing-007396?style=flat-square&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL_8.0-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛍️ LUXE Store — Luxury Storefront
+> Cinematic dark-luxury e-commerce with a dual-engine AI concierge
+
+**🌐 [Live Demo](https://luxe-store-nine.vercel.app)** &nbsp;|&nbsp; **📁 [Source Code](https://github.com/Satyamshiv0079/LUXE-Store)**
+
+- 🎥 GSAP + Lenis smooth-scroll physics & parallax effects
+- 💱 Global multicurrency switcher (USD, EUR, INR, GBP)
+- 💳 Stripe Sandbox + 3D Secure verification simulation
+- 🤖 Dual-engine AI concierge — Gemini 1.5 + NovaMind LLM
+- 🎁 Gift packaging, promo codes & dynamic stock alerts
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
