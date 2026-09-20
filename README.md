@@ -172,9 +172,13 @@ const satyam = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Satyamshiv0079&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&rank_icon=github" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamshiv0079&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Satyamshiv0079&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs-by-repos?username=Satyamshiv0079&theme=github_dark" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Satyamshiv0079&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Satyamshiv0079&theme=github_dark&utcOffset=5.5" />
 </div>
 
 <div align="center">
@@ -183,10 +187,18 @@ const satyam = {
 
 ---
 
+## 🏆 Trophies
+
+<div align="center">
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Satyamshiv0079&theme=algolia&no-frame=true&no-bg=true&column=7" />
+</div>
+
+---
+
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Satyamshiv0079&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f3a5f&hide_border=true&radius=6" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satyamshiv0079&theme=github_dark" />
 </div>
 
 <div align="center">
