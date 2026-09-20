@@ -1,48 +1,62 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12&height=120&section=header&text=Satyam%20Shiv&fontSize=48&fontColor=ffffff&fontAlignY=55&desc=Backend-Focused%20Software%20Engineer%20%7C%20Java%20·%20Python%20·%20AI%20%7C%20Open%20to%20SDE%20Roles&descAlignY=80&descSize=14&descColor=a8b2c1" />
+<!-- ══════════════ HEADER ══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20&height=220&section=header&text=Satyam%20Shiv&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend-Focused%20Software%20Engineer%20%7C%20AI%20·%20Java%20·%20Python%20·%20React&descAlignY=60&descSize=17&descColor=a8b8d0" />
 
-</div>
+<!-- ══════════════ TYPING SVG ══════════════ -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=Building+production-ready+AI+applications+%F0%9F%A4%96;REST+API+design+%26+scalable+backend+systems+%E2%9A%A1;Integrating+LLMs+into+full-stack+products+%F0%9F%94%AE;2026+B.Tech+CSE+%E2%80%94+Open+to+SDE+roles+%F0%9F%9A%80" />
+</a>
 
 <br/>
 
-<div align="center">
-
-<a href="mailto:Satyam.shiv0079@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/satyamshiv0079/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-&nbsp;
-<a href="https://github.com/Satyamshiv0079"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-&nbsp;
-<a href="https://leetcode.com/Satyamshiv0079/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Satyamshiv0079&color=0A66C2&style=flat-square&label=Profile+Views" />
+<!-- ══════════════ BADGES ══════════════ -->
+<p>
+  <a href="mailto:Satyam.shiv0079@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/satyamshiv0079/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://leetcode.com/Satyamshiv0079/">
+    <img src="https://img.shields.io/badge/LeetCode_150+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Satyamshiv0079&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
 
 </div>
 
 ---
 
-## 👋 About Me
+## 🧑‍💻 About Me
+
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ```typescript
 const satyam = {
-  name        : "Satyam Shiv",
-  location    : "Greater Noida, Uttar Pradesh, India 🇮🇳",
-  education   : "B.Tech CSE — Galgotias University  (2023 – 2026)",
-  email       : "satyam.shiv0079@gmail.com",
+  name       : "Satyam Shiv",
+  location   : "Greater Noida, Uttar Pradesh, India 🇮🇳",
+  education  : "B.Tech CSE — Galgotias University (2023–2026)",
+  email      : "satyam.shiv0079@gmail.com",
 
-  currentFocus: [
-    "Building AI-powered full-stack applications",
-    "REST API design & scalable backend systems",
-    "Integrating LLMs (Groq, Gemini) into production apps",
+  focus      : [
+    "AI-powered full-stack applications",
+    "Scalable backend systems & REST APIs",
+    "LLM integration (Groq, Gemini) in production",
   ],
 
-  techStack   : ["Java", "Python", "JavaScript", "Spring Boot", "React", "Flask"],
-  databases   : ["PostgreSQL", "MySQL", "Supabase"],
-  currently   : "Open to full-time SDE roles (2026 grad)",
-  funFact     : "Solved 150+ LeetCode problems and still fears the whiteboard 😄",
+  languages  : ["Java", "Python", "JavaScript", "TypeScript", "SQL"],
+  backend    : ["Spring Boot", "Flask", "Node.js", "Express"],
+  frontend   : ["React", "Next.js", "Vite", "TailwindCSS"],
+  databases  : ["PostgreSQL", "MySQL", "Supabase"],
+  cloud      : ["AWS", "Docker", "Vercel", "Render"],
+
+  achievements: "150+ LeetCode problems solved",
+  status     : "🟢 Open to full-time SDE roles — 2026 grad",
 };
 ```
+
+<br clear="both" />
 
 ---
 
@@ -52,30 +66,36 @@ const satyam = {
 <tr>
 <td width="50%" valign="top">
 
-**🔮 [NovaMind AI](https://github.com/Satyamshiv0079/ai-chatbot)** &nbsp; [![Live](https://img.shields.io/badge/Live-Demo-28a745?style=flat-square&logo=vercel&logoColor=white)](https://ai-chatbot-6njs1ys87-satyamshiv0079s-projects.vercel.app)
+**🔮 NovaMind AI — Spatial AI Platform**
 
-A production-grade spatial AI platform with a 3D glassmorphic UI.
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-28a745?style=flat-square&logo=vercel&logoColor=white)](https://ai-chatbot-6njs1ys87-satyamshiv0079s-projects.vercel.app)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Satyamshiv0079/ai-chatbot)
 
-- 4 switchable LLMs via Groq API (Llama 3.3 70B, Mixtral, Gemma 2)
-- RAG document analysis — PDF, CSV, JSON, code files
-- Voice mode: Speech-to-Text input + Text-to-Speech playback
-- JWT auth + Supabase PostgreSQL persistent chat sessions
-- PWA — installable on Android, iOS & Windows
+> Next-gen AI assistant wrapped in a 3D glassmorphic spatial UI.
 
-`Python` `Flask` `React` `Groq API` `Supabase` `PostgreSQL` `JWT`
+- 🧠 4 switchable LLMs — Llama 3.3 70B, Mixtral, Gemma 2 via Groq
+- 📄 RAG: attach PDFs, CSVs, JSON, code files for context
+- 🎙️ Voice Mode — Speech-to-Text input + TTS playback
+- 🔐 JWT auth with bcrypt + Supabase PostgreSQL chat history
+- 📱 Full PWA — installable on Android, iOS & Windows
+
+`Python` `Flask` `React` `Groq API` `Supabase` `JWT` `PWA`
 
 </td>
 <td width="50%" valign="top">
 
-**☕ [Java Study Tracker](https://github.com/Satyamshiv0079/java-study-tracker)** &nbsp; [![Live](https://img.shields.io/badge/Live-Demo-28a745?style=flat-square&logo=vercel&logoColor=white)](https://java-study-tracker-omega.vercel.app)
+**☕ Java Study Tracker — 45-Day Roadmap**
 
-A full-stack 45-day Java roadmap platform for backend placement prep.
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-28a745?style=flat-square&logo=vercel&logoColor=white)](https://java-study-tracker-omega.vercel.app)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Satyamshiv0079/java-study-tracker)
 
-- Spring Boot 3.4 REST API with full 3-layer architecture (JPA/Hibernate)
-- React 18 + Vite frontend with analytics dashboard (Recharts)
-- AI Mentor powered by Google Gemini API
-- 45 curated LeetCode problems with Java starter code
-- Embedded YouTube lessons + Pomodoro timer built-in
+> Full-stack platform to go from Java zero to backend placement-ready.
+
+- 🌐 Spring Boot 3.4 REST API — full 3-layer architecture (JPA/Hibernate)
+- 📊 React 18 + Vite dashboard with Recharts analytics
+- 🤖 AI Mentor powered by Google Gemini API
+- 💻 45 curated LeetCode problems with Java starter code
+- 🍅 Embedded YouTube lessons + built-in Pomodoro timer
 
 `Java 17` `Spring Boot` `React 18` `Vite` `Gemini API` `Render`
 
@@ -84,30 +104,35 @@ A full-stack 45-day Java roadmap platform for backend placement prep.
 <tr>
 <td width="50%" valign="top">
 
-**🎓 [Student Management System](https://github.com/Satyamshiv0079/StudentManagementSystem)**
+**🎓 Student Management System**
 
-A desktop CRUD application for managing student records.
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Satyamshiv0079/StudentManagementSystem)
 
-- Java Swing GUI with dark theme and alternating row colours
-- MySQL persistence with a normalized relational schema
-- Instant search by student name or roll number
-- Parameterized JDBC queries — SQL injection safe
-- Full CRUD: Create, Read, Update, Delete records
+> Desktop CRUD application for student record management.
+
+- 🖥️ Java Swing GUI with polished dark theme + alternating rows
+- 🗄️ MySQL with a normalized relational schema design
+- 🔍 Instant search by student name or roll number
+- 🛡️ Parameterized JDBC queries — SQL injection safe
+- ⚡ Full CRUD — Create, Read, Update, Delete
 
 `Java 17` `Java Swing` `MySQL 8.0` `JDBC` `OOP`
 
 </td>
 <td width="50%" valign="top">
 
-**🛍️ [LUXE Store](https://github.com/Satyamshiv0079/LUXE-Store)** &nbsp; [![Live](https://img.shields.io/badge/Live-Demo-28a745?style=flat-square&logo=vercel&logoColor=white)](https://luxe-store-nine.vercel.app)
+**🛍️ LUXE Store — Luxury E-Commerce Storefront**
 
-A cinematic dark-luxury e-commerce storefront.
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-28a745?style=flat-square&logo=vercel&logoColor=white)](https://luxe-store-nine.vercel.app)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Satyamshiv0079/LUXE-Store)
 
-- GSAP + Lenis smooth-scroll physics and parallax effects
-- Global multicurrency switcher (USD, EUR, INR, GBP)
-- Stripe Sandbox with 3D Secure verification simulation
-- Dual-engine AI concierge — Gemini 1.5 + NovaMind LLM
-- Gift packaging, promo codes & real-time stock alerts
+> Cinematic dark-luxury storefront with a dual-engine AI concierge.
+
+- 🎥 GSAP + Lenis smooth-scroll physics & parallax effects
+- 💱 Multicurrency switcher — USD, EUR, INR, GBP
+- 💳 Stripe Sandbox with 3D Secure simulation
+- 🤖 Dual-engine AI concierge — Gemini 1.5 + NovaMind LLM
+- 🎁 Gift packaging, promo codes & real-time stock alerts
 
 `JavaScript` `HTML5` `CSS3` `GSAP` `Lenis` `Gemini API`
 
@@ -119,23 +144,37 @@ A cinematic dark-luxury e-commerce storefront.
 
 ## 🛠️ Tech Stack
 
-| Category | Technologies |
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,nodejs,spring,flask,express&perline=10&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,aws,git,github,vscode,vercel,vite&perline=10&theme=dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| Layer | Stack |
 |---|---|
-| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
-| **AI & ML** | ![Groq](https://img.shields.io/badge/Groq_API-F55036?style=flat-square) ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white) ![BERT](https://img.shields.io/badge/BERT-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
-| **Cloud & Tools** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **Languages** | Java · Python · JavaScript · TypeScript · SQL |
+| **Backend** | Spring Boot · Flask · Node.js · Express · REST APIs · JWT |
+| **Frontend** | React · Next.js · Vite · TailwindCSS · HTML5 · CSS3 |
+| **Databases** | PostgreSQL · MySQL · Supabase · JDBC · JPA/Hibernate |
+| **AI & ML** | Groq API · Gemini API · LLM Orchestration · BERT |
+| **Cloud & DevOps** | AWS · Docker · Vercel · Render · Git · GitHub Actions |
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Satyamshiv0079&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Satyamshiv0079&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&rank_icon=github" />
   &nbsp;
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamshiv0079&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamshiv0079&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
 </div>
 
 <div align="center">
@@ -147,7 +186,7 @@ A cinematic dark-luxury e-commerce storefront.
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Satyamshiv0079&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f3a5f&hide_border=true" />
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Satyamshiv0079&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f3a5f&hide_border=true&radius=6" />
 </div>
 
 <div align="center">
@@ -163,10 +202,14 @@ A cinematic dark-luxury e-commerce storefront.
 <div align="center">
 
 *"Any sufficiently advanced technology is indistinguishable from magic."*
-— **Arthur C. Clarke**
+&nbsp;&nbsp;— **Arthur C. Clarke**
 
 <br/>
 
-⭐ **If any of my projects helped you, consider giving them a star!**
+**⭐ If any of my projects helped you, a star goes a long way!**
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20&height=100&section=footer" />
 
 </div>
