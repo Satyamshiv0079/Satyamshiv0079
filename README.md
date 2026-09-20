@@ -3,10 +3,8 @@
 <!-- ══════════════ HEADER ══════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20&height=220&section=header&text=Satyam%20Shiv&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend-Focused%20Software%20Engineer%20%7C%20AI%20·%20Java%20·%20Python%20·%20React&descAlignY=60&descSize=17&descColor=a8b8d0" />
 
-<!-- ══════════════ TYPING SVG ══════════════ -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=Building+production-ready+AI+applications+%F0%9F%A4%96;REST+API+design+%26+scalable+backend+systems+%E2%9A%A1;Integrating+LLMs+into+full-stack+products+%F0%9F%94%AE;2026+B.Tech+CSE+%E2%80%94+Open+to+SDE+roles+%F0%9F%9A%80" />
-</a>
+<!-- ══════════════ STATIC SUBTITLE ══════════════ -->
+<h3 align="center">Backend Engineer & AI Enthusiast | B.Tech CSE '26</h3>
 
 <br/>
 
@@ -29,8 +27,6 @@
 ---
 
 ## 🧑‍💻 About Me
-
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ```typescript
 const satyam = {
@@ -56,8 +52,6 @@ const satyam = {
 };
 ```
 
-<br clear="both" />
-
 ---
 
 ## 🚀 Featured Projects
@@ -73,11 +67,10 @@ const satyam = {
 
 > Next-gen AI assistant wrapped in a 3D glassmorphic spatial UI.
 
-- 🧠 4 switchable LLMs — Llama 3.3 70B, Mixtral, Gemma 2 via Groq
-- 📄 RAG: attach PDFs, CSVs, JSON, code files for context
-- 🎙️ Voice Mode — Speech-to-Text input + TTS playback
-- 🔐 JWT auth with bcrypt + Supabase PostgreSQL chat history
-- 📱 Full PWA — installable on Android, iOS & Windows
+- ⚡ **Optimized RAG query latency** by implementing efficient vector search over PDFs, CSVs, and code files.
+- 🧠 **Integrated 4 switchable LLMs** (Llama 3.3 70B, Mixtral, Gemma 2) via Groq for high-throughput responses.
+- 🔐 **Secured user sessions** using JWT auth with bcrypt and a Supabase PostgreSQL backend.
+- 🎙️ **Enhanced accessibility** with Speech-to-Text input and TTS playback in a full PWA (Android/iOS/Windows).
 
 `Python` `Flask` `React` `Groq API` `Supabase` `JWT` `PWA`
 
@@ -91,11 +84,10 @@ const satyam = {
 
 > Full-stack platform to go from Java zero to backend placement-ready.
 
-- 🌐 Spring Boot 3.4 REST API — full 3-layer architecture (JPA/Hibernate)
-- 📊 React 18 + Vite dashboard with Recharts analytics
-- 🤖 AI Mentor powered by Google Gemini API
-- 💻 45 curated LeetCode problems with Java starter code
-- 🍅 Embedded YouTube lessons + built-in Pomodoro timer
+- 🌐 **Engineered a scalable REST API** using Spring Boot 3.4 and a full 3-layer architecture (JPA/Hibernate).
+- 📊 **Built an interactive analytics dashboard** with React 18, Vite, and Recharts to track user progress.
+- 🤖 **Automated student mentoring** by integrating the Google Gemini API to provide real-time code feedback.
+- 💻 **Curated 45 LeetCode problems** with integrated Java starter code and a built-in Pomodoro timer for focus.
 
 `Java 17` `Spring Boot` `React 18` `Vite` `Gemini API` `Render`
 
@@ -110,11 +102,10 @@ const satyam = {
 
 > Desktop CRUD application for student record management.
 
-- 🖥️ Java Swing GUI with polished dark theme + alternating rows
-- 🗄️ MySQL with a normalized relational schema design
-- 🔍 Instant search by student name or roll number
-- 🛡️ Parameterized JDBC queries — SQL injection safe
-- ⚡ Full CRUD — Create, Read, Update, Delete
+- 🗄️ **Designed a normalized MySQL schema** (3NF), eliminating data redundancy and ensuring data integrity.
+- 🛡️ **Secured database access** against SQL injection vulnerabilities by enforcing parameterized JDBC queries.
+- ⚡ **Implemented full CRUD functionality** with an instant search feature by student name or roll number.
+- 🖥️ **Developed a responsive desktop GUI** using Java Swing with a polished dark theme and alternating rows.
 
 `Java 17` `Java Swing` `MySQL 8.0` `JDBC` `OOP`
 
@@ -128,11 +119,10 @@ const satyam = {
 
 > Cinematic dark-luxury storefront with a dual-engine AI concierge.
 
-- 🎥 GSAP + Lenis smooth-scroll physics & parallax effects
-- 💱 Multicurrency switcher — USD, EUR, INR, GBP
-- 💳 Stripe Sandbox with 3D Secure simulation
-- 🤖 Dual-engine AI concierge — Gemini 1.5 + NovaMind LLM
-- 🎁 Gift packaging, promo codes & real-time stock alerts
+- 💳 **Processed simulated payments** using the Stripe Sandbox with 3D Secure verification.
+- 🤖 **Deployed a dual-engine AI concierge** (Gemini 1.5 + NovaMind LLM) for personalized shopping assistance.
+- 💱 **Built a global multicurrency switcher** (USD, EUR, INR, GBP) with real-time state management.
+- 🎥 **Delivered a 60fps cinematic UX** using GSAP and Lenis smooth-scroll physics for parallax effects.
 
 `JavaScript` `HTML5` `CSS3` `GSAP` `Lenis` `Gemini API`
 
@@ -152,21 +142,6 @@ const satyam = {
 
 </div>
 
-<br/>
-
-<div align="center">
-
-| Layer | Stack |
-|---|---|
-| **Languages** | Java · Python · JavaScript · TypeScript · SQL |
-| **Backend** | Spring Boot · Flask · Node.js · Express · REST APIs · JWT |
-| **Frontend** | React · Next.js · Vite · TailwindCSS · HTML5 · CSS3 |
-| **Databases** | PostgreSQL · MySQL · Supabase · JDBC · JPA/Hibernate |
-| **AI & ML** | Groq API · Gemini API · LLM Orchestration · BERT |
-| **Cloud & DevOps** | AWS · Docker · Vercel · Render · Git · GitHub Actions |
-
-</div>
-
 ---
 
 ## 📊 GitHub Stats
@@ -176,11 +151,6 @@ const satyam = {
   &nbsp;
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Satyamshiv0079&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
 </div>
-
-<div align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=Satyamshiv0079&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=FF6B6B&currStreakLabel=58a6ff&sideNums=c9d1d9&dates=a8b2c1" />
-</div>
-
 
 ---
 
