@@ -172,13 +172,9 @@ const satyam = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Satyamshiv0079&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs-by-repos?username=Satyamshiv0079&theme=github_dark" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Satyamshiv0079&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Satyamshiv0079&theme=github_dark&utcOffset=5.5" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Satyamshiv0079&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&rank_icon=github" />
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Satyamshiv0079&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
 </div>
 
 <div align="center">
@@ -190,10 +186,6 @@ const satyam = {
 
 
 ## 📈 Contribution Activity
-
-<div align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satyamshiv0079&theme=github_dark" />
-</div>
 
 <div align="center">
   <picture>
