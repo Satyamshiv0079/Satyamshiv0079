@@ -5,7 +5,7 @@
 
 <!-- ══════════════ ANIMATED TYPING TEXT ══════════════ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Building+AI+that+understands+humans+🤖;Crafting+immersive+web+experiences+✨;Turning+ideas+into+intelligent+systems+⚡;OWASP+·+VAPT+·+SQLi+·+XSS+Research+🛡️" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=50&lines=Building+AI+that+understands+humans+🤖;Crafting+immersive+full-stack+experiences+✨;Turning+ideas+into+intelligent+systems+⚡;Java+·+Python+·+Spring+Boot+·+React+💻" />
 </a>
 
 <br/>
@@ -36,18 +36,16 @@
 const satyam: Developer = {
   name       : "Satyam Shiv",
   pronouns   : "he/him",
-  location   : "New Delhi, India 🇮🇳",
-  education  : "BCA @ JIMS Vasant Kunj",
-  role       : "Offensive Security Intern @ ComplyStrike",
-  leadership : "VP — E-Cell, JIMS",
+  location   : "Greater Noida, Uttar Pradesh, India 🇮🇳",
+  education  : "B.Tech CSE — Galgotias University (2023–2026)",
 
   currentFocus: [
-    "AI-Powered Applications",
-    "Vulnerability Research (VAPT)",
-    "System Design & Cloud Architecture",
+    "AI-Powered Full-Stack Applications",
+    "Backend Systems & REST API Design",
+    "Scalable Architecture with Java & Spring Boot",
   ],
 
-  askMeAbout : ["AI/ML", "React", "Python", "LLMs", "SQLi", "XSS"],
+  askMeAbout : ["AI/ML", "React", "Python", "Java", "LLMs", "Spring Boot"],
   funFact    : "I debug with console.log and I'm not ashamed 😄",
 };
 ```
@@ -168,12 +166,12 @@ const satyam: Developer = {
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 </div>
 
