@@ -84,12 +84,12 @@ const satyam = {
 
 > Full-stack platform to go from Java zero to backend placement-ready.
 
-- 🌐 **Engineered a scalable REST API** using Spring Boot 3.4 and a full 3-layer architecture (JPA/Hibernate).
-- 📊 **Built an interactive analytics dashboard** with React 18, Vite, and Recharts to track user progress.
-- 🤖 **Automated student mentoring** by integrating the Google Gemini API to provide real-time code feedback.
-- 💻 **Curated 45 LeetCode problems** with integrated Java starter code and a built-in Pomodoro timer for focus.
+- 🌐 **Engineered a secure REST API** with Spring Boot 3.4, Spring Security 6, and PostgreSQL persistence.
+- 🤖 **Integrated Gemini 2.5 Flash** for interactive Mock Vivas, ATS Resume analysis, and context-aware mentoring.
+- 💻 **Built a live Java 17 DSA Sandbox** using the Piston Execution Engine for real-time compilation and AI code reviews.
+- 📊 **Developed a responsive dashboard** with React 18 and Tailwind to track 45-day placement readiness metrics.
 
-`Java 17` `Spring Boot` `React 18` `Vite` `Gemini API` `Render`
+`Java 17` `Spring Boot` `React 18` `Gemini 2.5` `PostgreSQL` `Tailwind`
 
 </td>
 </tr>
