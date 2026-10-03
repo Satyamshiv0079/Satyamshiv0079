@@ -84,12 +84,12 @@ const satyam = {
 
 > Full-stack platform to go from Java zero to backend placement-ready.
 
-- 🌐 **Engineered a secure REST API** with Spring Boot 3.4, Spring Security 6, and PostgreSQL persistence.
-- 🤖 **Integrated Gemini 2.5 Flash** for interactive Mock Vivas, ATS Resume analysis, and context-aware mentoring.
-- 💻 **Built a live Java 17 DSA Sandbox** using the Piston Execution Engine for real-time compilation and AI code reviews.
-- 📊 **Developed a responsive dashboard** with React 18 and Tailwind to track 45-day placement readiness metrics.
+- 🛡️ **Engineered a secure REST API** with Spring Boot 3.4, DoS Rate Limiting, and multi-domain user isolation.
+- 🧪 **Achieved 100% pass rate across 66 tests** (JUnit/Mockito) covering security, integration, and domain services.
+- 🤖 **Integrated Gemini 2.5 Flash & MCP** (Model Context Protocol) for Mock Vivas and context-aware mentoring.
+- 🐳 **Deployed via Docker & GitHub Actions CI/CD** with PostgreSQL persistence and live Java 17 execution.
 
-`Java 17` `Spring Boot` `React 18` `Gemini 2.5` `PostgreSQL` `Tailwind`
+`Java 17` `Spring Boot` `Docker` `JUnit` `PostgreSQL` `React`
 
 </td>
 </tr>
