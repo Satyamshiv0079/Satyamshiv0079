@@ -77,19 +77,21 @@ const satyam = {
 </td>
 <td width="50%" valign="top">
 
-**☕ Java Study Tracker — 45-Day Roadmap**
+**☕ CodeMentor — 45-Day Java & GenAI RAG Platform**
 
 [![Live Demo](https://img.shields.io/badge/▶_Live_Demo-28a745?style=flat-square&logo=vercel&logoColor=white)](https://java-study-tracker-omega.vercel.app)
+[![API Docs](https://img.shields.io/badge/Swagger_UI-85EA2D?style=flat-square&logo=swagger&logoColor=black)](https://java-study-tracker.onrender.com/swagger-ui/index.html)
 [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Satyamshiv0079/java-study-tracker)
 
-> Full-stack platform to go from Java zero to backend placement-ready.
+> Enterprise placement platform bridging Core Java, Spring Boot microservices, and GenAI RAG.
 
-- 🛡️ **Engineered a secure REST API** with Spring Boot 3.4, DoS Rate Limiting, and multi-domain user isolation.
-- 🧪 **Achieved 100% pass rate across 66 tests** (JUnit/Mockito) covering security, integration, and domain services.
-- 🤖 **Integrated Gemini 2.5 Flash & MCP** (Model Context Protocol) for Mock Vivas and context-aware mentoring.
-- 🐳 **Deployed via Docker & GitHub Actions CI/CD** with PostgreSQL persistence and live Java 17 execution.
+- 🛡️ **Engineered production-grade REST API** with Spring Boot, fail-fast JWT validation, and sliding-window DoS rate limiting.
+- 🧠 **Architected tenant-isolated Python RAG service** using Sentence-Transformers, FAISS (`IndexFlatIP`), and Gemini 2.5 LLM with citations.
+- 🤖 **Implemented Model Context Protocol (MCP)** JSON-RPC 2.0 server (`POST /api/mcp/rpc`) and live GitHub integration.
+- 🧪 **Achieved 100% pass rate across 78 automated tests** (66 JUnit integration/security tests + 12 Python pytest tests).
+- 🗄️ **Zero cross-tenant leakage & PostgreSQL persistence** backed by Flyway database migrations and live Piston JVM execution.
 
-`Java 17` `Spring Boot` `Docker` `JUnit` `PostgreSQL` `React`
+`Java 17` `Spring Boot` `PostgreSQL` `Python RAG` `FAISS` `MCP` `Docker` `React 19`
 
 </td>
 </tr>
